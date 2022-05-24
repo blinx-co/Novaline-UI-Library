@@ -7,4 +7,4 @@ This was made very quickly and expect alot of bugs.
 This project is unfinished and far from being finished but you can use it.
 
 
-[Documentation]()
+[Documentation](https://blinx.gitbook.io/untitled-1/)
